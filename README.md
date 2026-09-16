@@ -6,6 +6,7 @@ It contains images, logos, banners, Certificates, badges and other visual resour
 ---
 
 ## 📌 Structure
+- `/academic-degrees` → Academic documents such as diplomas, degree certificates, and university completion records  
 - `/images` → General images used in READMEs and documentation  
 - `/logos` → Personal or project logos  
 - `/banners` → Headers and promotional banners  
