@@ -25,6 +25,6 @@ To embed an image from this repository into another project, use the **raw GitHu
 ````
 
 --> 
-© 2026 Idelfrides — Senior Software Engineer
+© 2026 Idelfrides — Software Engineer
 
 All rights reserved. Public access does not imply permission to use, only to read.
