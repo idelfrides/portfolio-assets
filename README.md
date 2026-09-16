@@ -1,7 +1,7 @@
 # 📂 Portfolio Assets
 
 This repository is a **public hub for assets** related to my professional portfolio and GitHub projects.  
-It contains images, logos, banners, and other visual resources that can be referenced across different repositories.
+It contains images, logos, banners, Certificates, badges and other visual resources that can be referenced across different repositories.
 
 ---
 
