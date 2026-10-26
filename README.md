@@ -33,7 +33,7 @@ It contains images, logos, banners, Certificates, badges and other visual resour
 ---
 
 ## 📚 Do you want to see all assets of my career ?
-  Access the link bellow:
+  Access the link below:
   
 [ALL MY CAREER ASSETS](https://drive.google.com/drive/folders/1EHpjwxy9eNjrsBhRsf_5WKrYrg9UWVtc?usp=sharing)
 
